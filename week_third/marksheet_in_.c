@@ -20,13 +20,13 @@ scanf("%d",&maths);
 printf("\n Enter the marks of science sub :\n");
 scanf("%d",&science);
 printf(" \nEnter the marks of arts sub :\n");
-scanf("%d",arts);
+scanf("%d",&arts);
 
  total =hindi, + english + maths + science + arts;
-printf(" \nTotal: %d\n",total);
 
-percentage: total*5;
-printf("\n***Percentage***:%d\n",percentage);
+percentage=total/5;
+
+
 
 
 
